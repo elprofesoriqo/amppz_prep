@@ -1,6 +1,6 @@
-# 🧠 MeetIT – [Task Name]
+# 🧠 MeetIT – [Porzadek]
 
-📄 [View problem statement](https://szkopul.edu.pl/problemset/problem/PROBLEM_ID)
+📄 [View problem statement](https://szkopul.edu.pl/problemset/problem/porzadek/site/?key=statement)
 
 ## 📌 Details
 
